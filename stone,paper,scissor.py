@@ -1,3 +1,7 @@
+from sys import argv
+from math import *
+import pylance
+import sql
 from random import randint
 
 t = ["rock", "paper", "scissor"]
