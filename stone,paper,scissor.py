@@ -11,7 +11,6 @@ computer = t[randint(0,2)]
 player = False
 
 while player == False:
-
     player = input("rock, paper, scissor?")
     if player == computer:
         print("Tie!")
